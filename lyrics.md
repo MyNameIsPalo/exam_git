@@ -1,5 +1,2 @@
-```diff
-+ test
-```
-#### 
+[Look, ma! Red!](red)
 
