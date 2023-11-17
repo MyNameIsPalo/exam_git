@@ -1,7 +1,7 @@
 ### Laisse pas traîner ton fils
 #### NTM
 
-### Kool Shen
+<p style="text-align: right;">Kool Shen</p>
 
 À l'aube de l'an 2000 pour les jeunes c'est plus le même deal\
 Pour celui qui traîne, comme pour celui qui file\
