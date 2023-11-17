@@ -1,3 +1,3 @@
-### ${\color{Laisse pas traîner ton fils}Blue}$
-#### ${\color{NTM}Blue}$
+### ${\color{Blue}Laisse pas traîner ton fils}$
+#### ${\color{Blue}NTM}$
 
